@@ -1,13 +1,13 @@
 <div align="center">
 
   <a href="https://github.com/benyaminkosari">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Senior+Python+Developer;Django+%26+Backend+Expert;Data+Scraping+%26+Crawling+Engineer;Full-Stack+(React%2FTypeScript)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Senior+Python+Developer;Django+%26+Backend+Expert;Data+Scraping+%26+Crawling+Engineer;Full-Stack+(React%2FTypeScript)" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <a href="https://github.com/benyaminkosari">
-    <img src="https://komarev.com/ghpvc/?username=benyaminkosari&label=PROFILE+VIEWS&color=F85D7F&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=benyaminkosari&label=PROFILE+VIEWS&color=3B82F6&style=for-the-badge" alt="Profile Views" />
   </a>
 
 </div>
@@ -24,11 +24,12 @@
       My focus is entirely on engineering scalable systems, bypassing complex data blocks, and delivering complete, production-ready technical solutions.
       <br/><br/><br/>
       <div align="center">
+        <!-- The leading "-" in the badge URL removes the text label from the left side, leaving only the icon -->
         <a href="mailto:benyaminusc@gmail.com">
-          <img src="https://img.shields.io/badge/Email-Contact_Me-F85D7F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+          <img src="https://img.shields.io/badge/-Contact_Me-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
         <a href="https://platformidea.ir">
-          <img src="https://img.shields.io/badge/Website-Platform-1F222E?style=for-the-badge&logo=googlechrome&logoColor=F8D866" alt="Website" />
+          <img src="https://img.shields.io/badge/-Platform-1E293B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
         </a>
       </div>
     </td>
